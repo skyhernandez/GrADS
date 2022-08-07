@@ -17,7 +17,7 @@
 *           the opening and closing files in a loop.  Also he cleaned
 *           cleaned up the codes considerably.
 *----------------------------------------------------------------------
-* @authors: Aviva Braun, Michael Kevin Hernandez, Mark Guishard
+* @authors: Aviva Braun, Skylar Hernandez, Mark Guishard
 * @emails : braun@meteo.psu.edu, mkh182@psu.edu
 * @date   : unknown
 * @update : 2/8/2010
