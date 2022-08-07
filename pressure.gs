@@ -20,10 +20,10 @@
 *
 ----------------------------------------------------------------------
 *
-* @Author : Michael Kevin Hernandez
+* @Author : Skylar Hernandez
 * @Date : November 14, 2008
 * @Version: 1.0.0
-* @Comment: Modified version of HRS Graphics Package by MK Hernandez.
+* @Comment: Modified version of HRS Graphics Package by Sky Hernandez.
 * @Execution:
 * run pressure.gs
 *
